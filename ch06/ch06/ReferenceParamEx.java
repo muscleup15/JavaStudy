@@ -1,3 +1,5 @@
+package ch06;
+
 class Data{int x;}
 public class ReferenceParamEx {
     public static void main(String[] args){

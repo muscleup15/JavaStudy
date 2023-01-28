@@ -1,3 +1,5 @@
+package ch06;
+
 public class Method {
 
     public static void main(String args[]){
